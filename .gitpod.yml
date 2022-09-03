@@ -1,5 +1,4 @@
-image:
-  file: gitpod/workspace-postgres
+image: gitpod/workspace-postgres
 
 ports:
   # Rails server
